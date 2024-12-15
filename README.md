@@ -1,5 +1,7 @@
 # todo_list_git
 
+Basic ToDo List UI kit using Flutter Framework
+
 Commercial License
 I downloaded this file as a Premium Member at gitaset.co
 for the reader please consider reading full and thorough license at:
